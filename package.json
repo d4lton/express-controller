@@ -35,5 +35,9 @@
   "commit": {
     "hash": "5904c1e5694e604a228c6e25a08c9bd2f0a12c25",
     "time": "Wed Jan 19 12:42:01 2022 -0500"
+  },
+  "repository": "git://github.com/d4lton/express-controller.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }

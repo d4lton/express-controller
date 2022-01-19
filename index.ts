@@ -1,3 +1,7 @@
+/**
+ * Copyright ©2022 Dana Basken
+ */
+
 export {IController} from "./src/IController";
 export {Controller} from "./src/decorators/Controller";
 export {Get} from "./src/decorators/Get";

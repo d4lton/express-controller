@@ -1,5 +1,5 @@
 /**
- * Copyright ©2021-2022 Dana Basken
+ * Copyright ©2022 Dana Basken
  */
 
 import "reflect-metadata";
